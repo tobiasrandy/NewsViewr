@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsViewr</string>
+    <string name="carousell_news">Carousell News</string>
+    <string name="empty_news">No news available</string>
+    <string name="error_alert">An error occured: %1$s</string>
+    <string name="popular">Popular</string>
+    <string name="recent">Recent</string>
+</resources>

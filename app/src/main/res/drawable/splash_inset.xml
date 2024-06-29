@@ -1,0 +1,6 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/baseline_motion_photos_on_24"
+    android:insetLeft="56dp"
+    android:insetRight="56dp"
+    android:insetTop="56dp"
+    android:insetBottom="56dp"/>
